@@ -1,0 +1,29 @@
+.navbar {
+    background: #11074A;
+}
+
+.jumbotron{
+    background: #11074A;
+    margin: 50px;
+    height: 70vh;
+    overflow: auto;
+}
+
+.purp-container{
+    height: 50vh;
+}
+
+.home-left-div{
+    border-right: 2px solid white;
+}
+
+
+.home-title{
+    margin-left: 1.5em;
+}
+
+.enter-button{
+    margin: auto;
+}
+
+
