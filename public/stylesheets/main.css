@@ -17,12 +17,25 @@
     border-right: 2px solid white;
 }
 
+.home-right-div{
+    border-right: 2px solid white;
+}
 
 .home-title{
     margin-left: 1.5em;
 }
 
 .enter-button{
+    margin: auto;
+}
+
+.project-nav {
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 2em;
+}
+
+.three-nav{
     margin: auto;
 }
 
